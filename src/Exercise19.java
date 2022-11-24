@@ -1,7 +1,7 @@
 public class Exercise19 {
     private int x;
     private int y;
-    public Exercise8(int x, int y) {
+    public Exercise19(int x, int y) {
         this.x = x;
         this.y = y;
     }
