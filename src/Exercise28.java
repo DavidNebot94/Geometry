@@ -23,3 +23,4 @@ public class Exercise28 {
         }
     }
 }
+//No he sabido hacerlo con getLength
